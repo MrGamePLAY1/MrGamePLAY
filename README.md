@@ -34,12 +34,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&layout=compact&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrGamePLAY1&show_icons=true&theme=dracula&hide_border=true)
-
 
 
 
