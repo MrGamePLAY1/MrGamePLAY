@@ -34,6 +34,11 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&hide_border=true&layout=compact&v=1)
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&layout=compact&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrGamePLAY1&show_icons=true&theme=dracula&hide_border=true)
+
 
 
