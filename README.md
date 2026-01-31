@@ -33,5 +33,7 @@
     <img src="https://skillicons.dev/icons?i=react,py,java,php,css,html,js,md,git,vscode,bootstrap,fastapi,mongodb,mysql,raspberrypi" />
   </a>
 </p>
-![MrGamePLAY1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&hide_border=true&layout=compact&v=1)
+
 
